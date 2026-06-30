@@ -60,6 +60,38 @@ Shows: F
 Input: A C F
 ```
 
+---
+
+# 📸 Screenshots
+
+### 🏠 Start Screen
+
+<p align="center">
+  <img src="screenshots/start-screen.png" width="700"/>
+</p>
+
+_Press any key to begin the game._
+
+---
+
+### ⏳ Time Expired
+
+<p align="center">
+  <img src="screenshots/timeout-screen.png" width="700"/>
+</p>
+
+_The game ends if the player fails to respond before the timer expires._
+
+---
+
+### ❌ Wrong Move
+
+<p align="center">
+  <img src="screenshots/wrong-move-screen.png" width="700"/>
+</p>
+
+_An incorrect sequence immediately ends the game and allows the player to restart._
+
 ### ⏳ Adaptive Time Constraints
 
 Players are given a limited time to respond.

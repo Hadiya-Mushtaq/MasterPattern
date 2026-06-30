@@ -133,6 +133,11 @@ Features:
 ```text
 MasterPattern/
 │
+├── screenshots/
+│   ├── start-screen.png
+│   ├── timeout-screen.png
+│   └── wrong-move-screen.png
+│
 ├── images/
 │   └── bk4.jpeg
 │
